@@ -1,3 +1,3 @@
 # BlackJack-Game
 
-Live Demo: [Black Jack](card-game-blackjack.netlify.app)
+Live Demo: [Black Jack](https://card-game-blackjack.netlify.app/)
